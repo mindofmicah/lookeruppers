@@ -8,6 +8,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-0" : {
+            "mindofmicah\\LookerUppers" : "src/"
+        }
+    },
     "require": {
 
     }
