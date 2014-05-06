@@ -1,0 +1,14 @@
+{
+    "name": "mindofmicah/lookeruppers",
+    "description": "Quick resources for looking up products by isbn, upc codes",
+    "authors": [
+        {
+            "name": "michael eschbacher",
+            "email": "michaeleschbacher@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
